@@ -19,7 +19,7 @@ void main() {
   if (firstNumber > secondNumber) {
     print('${firstNumber} é maior que ${secondNumber}');
   } else {
-    print('${firstNumber} não é maior que ${secondNumber}');
+    print('$firstNumber não é maior que $secondNumber');
   }
 
   //SWITCH
@@ -60,7 +60,7 @@ void main() {
    */
 
   /*
-  
+
    int initialValue = 5;
 
    switch (initialValue) {
